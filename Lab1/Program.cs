@@ -1,17 +1,12 @@
-﻿//using System;
+﻿
 
-//// Deadline : Vendredi 27 à 23h59
-//// Format du rendu : NOM_PRENOM_ST2API_TP1
-//// Multiplication tables
+using Lab1_MaisQuiMarche;
+using SolrNet.Utils;
 
-//public static void Main(string[] args)
-//{
-//    for (int i = 1; i < 11; i++)
-//    {
-//        for (int j = 1; j < 11; j++)
-//        {
-//            Console.WriteLine(i * j);
-//        }
-//    }
-//    Console.ReadKey();
-//}
+var code = new NormalMain();
+//code.Exo1_1();
+//code.Exo1_2();
+//code.Exo1_3();
+//code.Prime();
+//code.Whatever(float x);
+code.Square_1();
