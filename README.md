@@ -1,3 +1,3 @@
 # Lab_1_Csharp
 
-The NormalMain.cs file contains all my work
+The Lab1/NormalMain.cs file contains all my work
