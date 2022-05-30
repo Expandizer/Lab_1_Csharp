@@ -1,4 +1,4 @@
-# Lab_1_Csharp
+# Omar_Boukmakh_ST2API_TP1
 
 The Lab1/NormalMain.cs file contains all my work
 
